@@ -31,4 +31,4 @@ Git is a distributed version control system that tracks versions of files. It is
 #### Pushing code to remote repository
     git push
 #### how to verify
-Go to Competition Repository at [https://github.com/CompetitionAdmin/2025_AF_Engineering_Competition](https://github.com/CompetitionAdmin/2025_AF_Engineering_Competition) and switch to your branch.  Review Commit history for your changes.
+Go to Competition Repository at [https://github.com/CompetitionAdmin/2025_AF_Engineering_Competition](https://github.com/EngineeringFair/2026_AF_Engineering_Competition) and switch to your branch.  Review Commit history for your changes.

@@ -12,7 +12,7 @@
 ![Make Branch](images/GitComp_Branch_3.png?raw=true "Make Branch")
 
 ## You will clone and work on this branch for duration of the competition.  No need to merge into main. 
-    git clone -b {SchoolName}_{TeamName} https://github.com/CompetitionAdmin/2025_AF_Engineering_Competition.git **Where you want the files saved on you PC.  Example: c:\src\branches\{SchoolName}_{TeamName}**
+    git clone -b {SchoolName}_{TeamName} https://github.com/EngineeringFair/2026_AF_Engineering_Competition.git **Where you want the files saved on you PC.  Example: c:\src\branches\{SchoolName}_{TeamName}**
 
 ### General Git Repository Information For Reference:
 
@@ -31,4 +31,4 @@ Git is a distributed version control system that tracks versions of files. It is
 #### Pushing code to remote repository
     git push
 #### how to verify
-Go to Competition Repository at [https://github.com/CompetitionAdmin/2025_AF_Engineering_Competition](https://github.com/EngineeringFair/2026_AF_Engineering_Competition) and switch to your branch.  Review Commit history for your changes.
+Go to Competition Repository at [https://github.com/EngineeringFair/2026_AF_Engineering_Competition](https://github.com/EngineeringFair/2026_AF_Engineering_Competition) and switch to your branch.  Review Commit history for your changes.
